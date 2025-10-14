@@ -1,1 +1,1 @@
-# This is Hunter's new Home for all his Cloud/Terraform/Security Scripts To Reference in the Future.
+Terraform and Automation Scripts Used for AWS 
